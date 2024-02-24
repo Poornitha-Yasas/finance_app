@@ -99,7 +99,6 @@ class _CentersPageState extends State<CentersPage> {
               Icons.arrow_forward_ios,
             ),
           ),
-          // Add more ListTiles as needed
         ],
       ),
     );
